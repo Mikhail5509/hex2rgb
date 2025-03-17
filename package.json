@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Mikhail5509.github.io/hex2rgb",
+  "homepage": "Mikhail5509.github.io/hex2rgb",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
